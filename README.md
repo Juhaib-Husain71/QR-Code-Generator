@@ -35,7 +35,7 @@ https://juhaib-husain71.github.io/QR-Code-Generator/
 
 ## 📸 Preview
 
-![QR-Code App Screenshot](images/qr-code-preview.png.png)
+![QR-Code App Screenshot](images/qr-code-preview.png)
 
 
 ## 🔗 API Used
