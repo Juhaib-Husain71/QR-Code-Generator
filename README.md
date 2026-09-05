@@ -25,18 +25,24 @@ qr-code-generator/
 │── app.js
 └── README.md
 ```
+---
+
+## Live Demo
+```
+https://juhaib-husain71.github.io/QR-Code-Generator/
+```
+---
 
 ## 📸 Preview
 
-Enter any text or URL, click **Generate**, and the QR code will be created instantly. You can also download the generated QR code.
+![QR-Code App Screenshot](images/qr-code-preview.png.png)
+
 
 ## 🔗 API Used
 
 GoQR API
 
-```
 https://api.qrserver.com/v1/create-qr-code/
-```
 
 ## 📌 Future Improvements
 
